@@ -1,5 +1,14 @@
 # python-ml-course
-course notes for python and machine learning course
+Repository for  machine learning using python course
+
+
+## Rules
+1. This is completely hands on course. Students are suppose to do hands on practice during session.
+2. Having a computer/laptop is necessary. Only listening lecture on mobile is not allowed without prior permission.
+3. Students have to share there screen whenever the instructor asks to do so.
+4. During session, after 10-15 ins of teaching students will be given problems to try which they must try to solve during session.
+5. In between there will be project assigned in groups. Each group is supposed to submit the solution and present the demo of the project.
+6. The course will end with a small project which has to be submitted by each student.
 
 ## Course Contents
 
