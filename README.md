@@ -25,42 +25,56 @@ problem solving.
 * List comprehensions
 * dictionary comprehensions
 
-### Lecture 6 Advanced use of functions - 1.5 hour, 17 Aug 6:30-8pm
+### Lecture 6 Recap and problem solving - 1 hour, 15 Sep 7:00-8pm
+* List/dictionary comprehensions
+* Problems
+
+### Lecture 7 Advanced use of functions - 1 hour, 16 Sep 7-8pm
 * Advanced way of writing functions - variable number of arguments, keyword arguments
 
-### Lecture 7 Advanced use of functions - 1.5 hour, 18 Aug 6:30-8pm
+### Lecture 8 Advanced use of functions - 1 hour, 17 Sep 7-8pm
 * Higher order functions - functions as function arguments and as return value
 
-
-### Lecture 8 Scripts and modules - 1.5 hour, 19 Aug 6:30-8pm
+### Lecture 9 Scripts and modules - 1 hour, 20 Sep 7-8pm
 * Writing your own modules
 * Writing scripts , handling arguments
 
-
-### Lecture 9 string formatting - 1.5 hour, 20 Aug 6:30-8pm
+### Lecture 10 string formatting - 1 hour, 21 Sep 7-8pm
 * Various ways of formatting string
 * Fun with text
 
-
-### Lecture 10 Working with files - 1.5 hour, 23 Aug 6:30-8pm
+### Lecture 11 Working with files - 1 hour, 22 Sep 7-8pm
 * reading and writing files
 * logging and log files
 
-### Lecture 11 OOPS - 1.5 hour, 24 Aug 6:30-8pm
-* Object oriented programming with python
-* operator overloading
+### Lecture 12 Problems - 1 hour, 23 Sep 7-8pm
+* Problem solving
 
-## Lecture 12 Iterators - 1.5 hour, 25 Aug 6:30-8pm
+### Lecture 13 OOPS - 1 hour, 24 Sep 7-8pm
+* Object oriented programming with python
+
+### Lecture 14 OOPS - 1 hour, 27 Sep 7-8pm
+* Operator overloading 
+
+
+## Lecture 15 Iterators - 1 hour, 28 Sep 7-8pm
+* yield statement
+* Introduction to concept of iterators
+
+## Lecture 16 Data pipe line - 1 hour, 29 Sep 7-8pm
 * Lazy data loading for big files
 * Building pipe line of computation for big size data
 
-### Lecture 13 virtual environment- 1.5 hour, 26 Aug 6:30-8pm
+### Lecture 17 virtual environment- 1 hour, 30 Sep 7-8pm
 * Managing third party libraries with virtual environment
 * working with multiple versions of libraries
 
+### Lecture 19 Mid Project - 1 hour, 1 Oct 7-8
+* Mid course Project Definition. students will have one week time to submit the project. 
+
 ## Section 2 - Machine Learning
 
-### Lecture 11 Numpy and numerics
+### Lecture 18 Numpy and numerics
 * Basics of numpy arrays
 * Normalization 
 
