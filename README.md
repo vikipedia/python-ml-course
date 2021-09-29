@@ -34,93 +34,102 @@ problem solving.
 * List comprehensions
 * dictionary comprehensions
 
-### Lecture 6 Recap and problem solving - 1 hour, 15 Sep 7:00-8pm
+### Lecture 6 working comprehensions 2 - 1.5 hour, 17 Aug 6:30-8pm
+* List comprehensions
+* dictionary comprehensions
+
+### Lecture 7 Recap and problem solving - 1 hour, 15 Sep 7:00-8pm
 * List/dictionary comprehensions
 * Problems
 
-### Lecture 7 Advanced use of functions - 1 hour, 16 Sep 7-8pm
+### Lecture 8 Advanced use of functions - 1 hour, 16 Sep 7-8pm
 * Advanced way of writing functions - variable number of arguments, keyword arguments
 
-### Lecture 8 Advanced use of functions - 1 hour, 17 Sep 7-8pm
+### Lecture 9 Advanced use of functions - 1 hour, 17 Sep 7-8pm
 * Higher order functions - functions as function arguments and as return value
 
-### Lecture 9 Scripts and modules - 1 hour, 20 Sep 7-8pm
+### Lecture 10 Scripts and modules - 1 hour, 20 Sep 7-8pm
 * Writing your own modules
 * Writing scripts , handling arguments
 
-### Lecture 10 string formatting - 1 hour, 21 Sep 7-8pm
+### Lecture 11 Scripts and modules2 - 1 hour, 21 Sep 7-8pm
+* Writing your own modules
+* Writing scripts , handling arguments
+
+
+### Lecture 12 string formatting - 1 hour, 22 Sep 7-8pm
 * Various ways of formatting string
 * Fun with text
 
-### Lecture 11 Working with files - 1 hour, 22 Sep 7-8pm
+### Lecture 13 Working with files - 1 hour, 23 Sep 7-8pm
 * reading and writing files
 * logging and log files
 
-### Lecture 12 Problems - 1 hour, 23 Sep 7-8pm
+### Lecture 14 Problems - 1 hour, 27 Sep 5:30-6:30pm
 * Problem solving
 
-### Lecture 13 OOPS - 1 hour, 24 Sep 7-8pm
+### Lecture 15 OOPS - 1 hour, 4 Oct 7-8pm
 * Object oriented programming with python
 
-### Lecture 14 OOPS - 1 hour, 27 Sep 7-8pm
+### Lecture 16 OOPS - 1 hour, 5 Oct  7-8pm
 * Operator overloading 
 
 
-## Lecture 15 Iterators - 1 hour, 28 Sep 7-8pm
+## Lecture 17 Iterators - 1 hour, 6 Oct 7-8pm
 * yield statement
 * Introduction to concept of iterators
 
-## Lecture 16 Data pipe line - 1 hour, 29 Sep 7-8pm
+## Lecture 18 Data pipe line - 1 hour, 7 Oct 7-8pm
 * Lazy data loading for big files
 * Building pipe line of computation for big size data
 
-### Lecture 17 virtual environment- 1 hour, 30 Sep 7-8pm
+### Lecture 19 virtual environment- 1 hour, 8 Oct 7-8pm
 * Managing third party libraries with virtual environment
 * working with multiple versions of libraries
 
-### Lecture 19 Mid Project - 1 hour, 1 Oct 7-8
+### Lecture 20 Mid Project - 1 hour, 11 Oct 7-8
 * Mid course Project Definition. students will have one week time to submit the project. 
 
 ## Section 2 - Machine Learning
 
-### Lecture 18 Numpy and numerics
+### Lecture 21 Numpy and numerics  1 hour, 12 Oct 7-8
 * Basics of numpy arrays
 * Normalization 
 
-### Lecture 12 Pandas
+### Lecture 22 Pandas  1 hour, 13 Oct 7-8
 * Series /DataFrame
     - Access patterns , selecting
     - Filtering
     - combining data 
 	
-### Lecture 13 Pandas
+### Lecture 23 Pandas
 * Aggrigation
 * feature Normalization
 * other operations with pandas
 
-### Lecture 14 Visualisation
+### Lecture 24 Visualisation
 * pandas plotting tools
 * altair - grammar of visualisation
 
 
-### Lecture 15 simple case of machine learning - I
+### Lecture 25 simple case of machine learning - I
 * We will make use of basic statistics and python to make computer learn Indian classical music
 
-### Lecture 16 simple case of machine learning - II
+### Lecture 26 simple case of machine learning - II
 * actual coding will happen in this session and we will have a music bot which will compose and play music for us
 
 
-### Lecture 17 Regression I
+### Lecture 27 Regression I
 
-### Lecture 18 Regression II
+### Lecture 28 Regression II
 
-### Lecture 19 Classification I
-### Lecture 20 Classification II
+### Lecture 29 Classification I
+### Lecture 30 Classification II
 
-### Lecture 21 Clustering
+### Lecture 31 Clustering
 
-### Lecture 22 Model Evaluation and Improvements
+### Lecture 32 Model Evaluation and Improvements
 
-### Lecture 23 Intelligent chat bot
+### Lecture 33 Intelligent chat bot
 
 
