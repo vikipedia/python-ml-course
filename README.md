@@ -102,34 +102,34 @@ problem solving.
     - Filtering
     - combining data 
 	
-### Lecture 23 Pandas
+### Lecture 23 Pandas 1hour, 14 Oct 7-8
 * Aggrigation
 * feature Normalization
 * other operations with pandas
 
-### Lecture 24 Visualisation
+### Lecture 24 Visualisation, 15 Oct 7-8
 * pandas plotting tools
 * altair - grammar of visualisation
 
 
-### Lecture 25 simple case of machine learning - I
+### Lecture 25 simple case of machine learning - I  1 hour 16 Oct 7-8
 * We will make use of basic statistics and python to make computer learn Indian classical music
 
-### Lecture 26 simple case of machine learning - II
+### Lecture 26 simple case of machine learning - II  1 hour 17 Oct 7-8
 * actual coding will happen in this session and we will have a music bot which will compose and play music for us
 
 
-### Lecture 27 Regression I
+### Lecture 27 Regression I  1 hour 21 Oct 7-8
 
-### Lecture 28 Regression II
+### Lecture 28 Regression II 1 hour, 22 Oct 7-8
 
-### Lecture 29 Classification I
-### Lecture 30 Classification II
+### Lecture 29 Classification I 1hour, 23 Oct 7-8
+### Lecture 30 Classification II, 1 hour 24 Oct 7-8
 
-### Lecture 31 Clustering
+### Lecture 31 Clustering, 1 hour 1 hour 27 oct 7-8
 
-### Lecture 32 Model Evaluation and Improvements
+### Lecture 32 Model Evaluation and Improvements 1 hour, 28 Oct, 7-8 
 
-### Lecture 33 Intelligent chat bot
+### Lecture 33 Intelligent chat bot 1 hour, 29 Oct , 7-8
 
 
